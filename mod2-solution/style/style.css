@@ -2,6 +2,9 @@
 *{
 	box-sizing: border-box;
 }
+body{
+	font-family: Helvetica;
+}
 h1{
 	text-align: center;
 	margin-bottom: 30px
@@ -12,7 +15,7 @@ h2{
 	position: absolute;
 	font-size: 125%;
 	right: 20px;
-	border: 1px solid black;
+	border: 1px thick black;
 }
 .section{
 	position: relative;
@@ -30,7 +33,7 @@ h2{
 p{
 	/**width: 30%; **/
 	background-color: grey;
-	border: 1px solid black;
+	border: 1px thick black;
 	font-size: 100%;
 	float: left;
 	margin-right: 20px;
