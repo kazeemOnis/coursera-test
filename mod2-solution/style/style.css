@@ -15,7 +15,8 @@ h2{
 	position: absolute;
 	font-size: 125%;
 	right: 20px;
-	border: 1px thick black;
+	border: 1px solid black;
+	padding: 5px 30px 5px 30px;
 }
 .section{
 	position: relative;
@@ -31,14 +32,12 @@ h2{
 	background-color: moccasin;
 }
 p{
-	/**width: 30%; **/
 	background-color: grey;
-	border: 1px thick black;
+	border: 1px solid black;
 	font-size: 100%;
 	float: left;
 	margin-right: 20px;
-	padding: 15px;
-	padding-top: 30px;
+	padding: 40px 15px 15px 15px;
 }
 #row{
 	width: 100%;
