@@ -10,6 +10,9 @@ body{
 	font-size: 1.5em;
 	line-height: .75;
 }
+.navbar-brand a:hover{
+	text-decoration: none;
+}
 #nav-list{
 	text-align: center; 
 	background-color: white;
@@ -36,7 +39,7 @@ a{
 	text-decoration: none;
 	color: black;
 }
-a:hover{
+#beef-tile a:hover, #chicken-tile a:hover, #sushi-tile a:hover{
 	color: deepskyblue;
 }
 
